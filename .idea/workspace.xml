@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fcea2f4c-cd03-4728-869c-70378ed2dc99" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/space/harbour/Dictionary.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/space/harbour/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/space/harbour/App.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/space/harbour/Document.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/space/harbour/Document.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/space/harbour/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/space/harbour/App.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/space/harbour/OxfordDictionary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/space/harbour/OxfordDictionary.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/space/harbour/SpellChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/space/harbour/SpellChecker.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/space/harbour/UrbanDictionary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/space/harbour/UrbanDictionary.java" afterDir="false" />
